@@ -1,5 +1,5 @@
 {
-    "name": "iexbase/tron-api",
+    "name": "brebvix/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
@@ -20,7 +20,7 @@
 
     "require": {
         "php": "^7.2",
-        "guzzlehttp/guzzle": "^7.0",
+        "guzzlehttp/guzzle": "^6.2",
         "iexbase/web3.php": "^2.0.1",
         "kornrunner/secp256k1": "^0.1.2",
         "simplito/elliptic-php": "^1.0"
